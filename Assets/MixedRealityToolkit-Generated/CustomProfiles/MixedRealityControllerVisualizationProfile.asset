@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514da61389c049c0bdaf31b7f6970d33, type: 3}
+  m_Name: MixedRealityControllerVisualizationProfile
+  m_EditorClassIdentifier: 
+  isCustomProfile: 1
+  renderMotionControllers: 1
+  controllerVisualizationType:
+    reference: Microsoft.MixedReality.Toolkit.SDK.UX.Controllers.MixedRealityControllerVisualizer,
+      Microsoft.MixedReality.Toolkit.SDK
+  useDefaultModels: 0
+  globalLeftHandModel: {fileID: 5007903064310155213, guid: ae18d2f22d029a943a40801fed1684fb,
+    type: 3}
+  globalRightHandModel: {fileID: 9068523552204132646, guid: 67f824c0b01554d45a60f677732ad20f,
+    type: 3}
+  controllerVisualizationSettings: []
