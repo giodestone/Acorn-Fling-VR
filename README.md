@@ -9,4 +9,11 @@ See more at: https://globalgamejam.org/2019/games/seed-fling
 
 Enjoy!
 
+#Installation
+You may have to enable developer sideloading, to do so go to Settings > Update & Security > For Developers > Select Developer Mode.
+
+First select the version for your system (x64 if unsure, Win32 if it fails). Then right click and select Properties > Digital Signatures > Select Signature from the list > Click 'Details'  > Click 'View Certificate' > Click 'Install Certificate' > Click 'Current User' or 'Local Machiene' 
+
+Then double click Acorn_Fling_1.0.0.0_[x64/Win32].appx and follow the instructions on the installer.
+
 P.S. The game is released under Attribution-Noncommercial-Share Alike 3.0 but feel free to Public Domain it.
