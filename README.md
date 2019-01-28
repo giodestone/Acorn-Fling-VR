@@ -9,7 +9,8 @@ See more at: https://globalgamejam.org/2019/games/seed-fling
 
 Enjoy!
 
-#Installation
+# Installation
+
 You may have to enable developer sideloading, to do so go to Settings > Update & Security > For Developers > Select Developer Mode.
 
 First select the version for your system (x64 if unsure, Win32 if it fails). Then right click and select Properties > Digital Signatures > Select Signature from the list > Click 'Details'  > Click 'View Certificate' > Click 'Install Certificate' > Click 'Current User' or 'Local Machiene' 
