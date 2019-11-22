@@ -1,20 +1,40 @@
 # Acorn Fling
-A game for Global Game Jam 2019 developed for UWP/Windows Mixed Reality platforms.
+A virtual reality game for the Global Game Jam 2019, made for UWP/Windows Mixed Reality platforms.
 
-The theme was "what does home mean to you" and for us it ment trees and so we made a game about it. It also fit in with last years theme.
+![Image Of Tree](https://github.com/giodestone/Acorn-Fling-VR/blob/master/Images/Image1.jpg)
+![GIF of gameplay](todo)
 
-The movement may be a little buggy but enjoy.
+The theme was "What Does Home Mean To You" and for us a defining feature of home are trees and so we made a game about putting trees on planets. You get the trees on other planets by spinning them and firing tree seeds from your planet across space to (hopefully) another planet.
 
-See more at: https://globalgamejam.org/2019/games/acorn-fling
+See more at: [Global Game Jam Website](https://globalgamejam.org/2019/games/acorn-fling)
 
 Enjoy!
 
 # Installation
 
-You may have to enable developer sideloading, to do so go to Settings > Update & Security > For Developers > Select Developer Mode.
+[Download Here!](https://github.com/giodestone/Acorn-Fling-VR/releases)
 
-First select the version for your system (x64 if unsure, Win32 if it fails). Then right click and select Properties > Digital Signatures > Select Signature from the list > Click 'Details'  > Click 'View Certificate' > Click 'Install Certificate' > Click 'Current User' or 'Local Machiene' 
+Try below first, but you may have to enable developer side loading, to do so go to Settings > Update & Security > For Developers > Select Developer Mode.
 
-Then double click Acorn_Fling_1.0.0.0_[x64/Win32].appx and follow the instructions on the installer.
+1. Select the version for your system (x64 if unsure, Win32 if it fails). 
+2. Then right click and select Properties > Digital Signatures > Select Signature from the list > Click 'Details'  > Click 'View Certificate' > Click 'Install Certificate' > Click 'Current User'
+3. Then double click Acorn_Fling_1.0.0.0_[x64/Win32].appx and follow the instructions on the installer.
 
-P.S. The game is released under Attribution-Noncommercial-Share Alike 3.0 but feel free to Public Domain it.
+**Or alternatively download source and boot up with Unity Editor** (made on 2018.3.3f1 but newer versions probably work).
+
+# How to play
+Using the left controller press down the trigger and rotate the controller. Then once you're happy with the momentum your planet has press on the touch-pad to fire a weapon.
+
+# Images
+![Image of planets](https://github.com/giodestone/Acorn-Fling-VR/blob/master/Images/Image2.jpg)
+![Image of planets](https://github.com/giodestone/Acorn-Fling-VR/blob/master/Images/Image3.jpg)
+![Image of planets](https://github.com/giodestone/Acorn-Fling-VR/blob/master/Images/Image4.jpg)
+![Image of planets](https://github.com/giodestone/Acorn-Fling-VR/blob/master/Images/Image5.jpg)
+![Image of planets](https://github.com/giodestone/Acorn-Fling-VR/blob/master/Images/Image6.jpg)
+
+# Credits
+* Adam Steven - Programming and Art
+* Feliks Jakimow - Programming
+
+# License
+Attribution-Noncommercial-Share Alike 3.0
