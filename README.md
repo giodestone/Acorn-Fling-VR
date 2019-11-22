@@ -5,7 +5,7 @@ The theme was "what does home mean to you" and for us it ment trees and so we ma
 
 The movement may be a little buggy but enjoy.
 
-See more at: https://globalgamejam.org/2019/games/seed-fling
+See more at: https://globalgamejam.org/2019/games/acorn-fling
 
 Enjoy!
 
